@@ -2,12 +2,9 @@
 using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Controllers;
-using System.Web.Http.Dispatcher;
 using Autofac;
 using NUnit.Framework;
-using Rhino.Mocks;
 using Should;
-using WebApiContrib.IoC.Autofac;
 using WebApiContrib.IoC.Autofac.Tests.Helpers;
 
 namespace WebApiContrib.IoC.Autofac.Tests
